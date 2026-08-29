@@ -1,0 +1,35 @@
+infinite-sphere.de — statischer Webauftritt
+===========================================
+
+Inhalt
+------
+index.html          One-Pager (Startseite)
+impressum.html      Impressum
+datenschutz.html    Datenschutzerklärung
+assets/             Logo, Bildmarke, Favicons, og-image.png (Vorschaubild
+                    für geteilte Links, 1200x630)
+assets/fonts/       Cormorant Garamond (selbst gehostet)
+
+Livegang
+--------
+Den kompletten Inhalt dieses Ordners in das Web-Root der Domain
+infinite-sphere.de hochladen (Ordnerstruktur beibehalten).
+index.html ist die Startseite. Kein Build, kein Server-Code,
+keine Datenbank, kein JavaScript erforderlich.
+
+Hinweise
+--------
+- Schriften werden ausschließlich aus assets/fonts/ geladen.
+  Es besteht keine Verbindung zu Google Fonts oder anderen
+  Drittanbietern — das deckt Abschnitt 6 der Datenschutzerklärung.
+- impressum.html und datenschutz.html sind auf noindex gesetzt.
+- Open Graph verweist auf https://infinite-sphere.de/assets/og-image.png.
+  Sobald die Domain live ist, ist das Bild automatisch erreichbar.
+- Die Datenschutzerklärung ist auf "Stand: August 2026" datiert.
+  Bei Änderungen an der Seite bitte anpassen.
+- Abschnitt 9 (Social Media) beschreibt Verlinkungen zu Profilen,
+  die auf dieser Seite nicht vorhanden sind. Falls dieser Abschnitt
+  entfallen soll, bitte Bescheid geben.
+- Die Infinite-Sphere-Bildmarke liegt freigestellt als PNG vor
+  (assets/infinite-sphere-bildmarke.png). Falls ein transparentes
+  Original in höherer Qualität existiert, kann es 1:1 ersetzt werden.

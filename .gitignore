@@ -1,0 +1,12 @@
+# Build & Abhaengigkeiten
+/node_modules
+/.next
+/out
+next-env.d.ts
+*.tsbuildinfo
+
+# Wird komplett von scripts/optimize-images.mjs aus assets-src/ erzeugt
+/public
+
+# OS
+.DS_Store

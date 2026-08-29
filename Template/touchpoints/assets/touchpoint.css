@@ -1,0 +1,28 @@
+@font-face{font-family:'Cormorant Garamond';src:url('../assets/fonts/cormorant-garamond-latin-regular.woff2') format('woff2');font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:'Cormorant Garamond';src:url('../assets/fonts/cormorant-garamond-latin-italic.woff2') format('woff2');font-weight:400;font-style:italic;font-display:swap}
+@font-face{font-family:'Cormorant Garamond';src:url('../assets/fonts/cormorant-garamond-latin-700.woff2') format('woff2');font-weight:700;font-style:normal;font-display:swap}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:#F7F4EF;color:#1A1A1A;font-family:'Cormorant Garamond',Georgia,serif;font-size:20px;line-height:1.72;-webkit-font-smoothing:antialiased}
+a{color:#8A6A3B;text-decoration:none;border-bottom:1px solid rgba(138,106,59,.4);transition:border-color 160ms ease-out,color 160ms ease-out}
+a:hover{color:#6E5430;border-bottom-color:#6E5430}
+main{max-width:34em;margin:0 auto;padding:104px 32px 72px}
+.kicker{font-family:Georgia,'Times New Roman',serif;font-size:11px;letter-spacing:.24em;text-transform:uppercase;color:#8A6A3B}
+.rule{height:1px;background:#8A6A3B;margin:18px 0 40px}
+h1{font-family:Georgia,'Times New Roman',serif;font-size:41px;line-height:1.22;font-weight:400;margin:0 0 48px;letter-spacing:-.005em;text-wrap:pretty}
+.einordnung{border-left:2px solid #8A6A3B;padding:2px 0 2px 26px;margin:0 0 56px}
+.einordnung p{font-size:17px;line-height:1.75;color:rgba(26,26,26,.72);margin:0;text-wrap:pretty}
+.inhalt{display:flex;flex-direction:column;gap:26px}
+.inhalt p{margin:0;text-wrap:pretty}
+.motto{font-family:Georgia,'Times New Roman',serif;font-size:22px;line-height:1.5;font-style:italic;color:#8A6A3B;margin:22px 0 0!important}
+.download{margin:64px 0 0;background:rgba(138,106,59,.055);border-top:1px solid rgba(138,106,59,.28);padding:26px 28px 28px}
+.download-label{font-family:Georgia,'Times New Roman',serif;font-size:10px;letter-spacing:.22em;text-transform:uppercase;color:#8A6A3B;margin-bottom:14px}
+.download-row{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:12px}
+.download-name{font-family:Georgia,'Times New Roman',serif;font-size:17px}
+.download-meta{font-size:16px;color:rgba(26,26,26,.55);margin-top:4px}
+.download-row a{font-family:Georgia,'Times New Roman',serif;font-size:15px}
+footer{margin:88px 0 0;border-top:1px solid rgba(26,26,26,.14);padding-top:28px}
+footer p{font-size:18px;line-height:1.7;color:rgba(26,26,26,.7);margin:0}
+footer em{font-family:Georgia,'Times New Roman',serif;font-size:16px;font-style:italic}
+.legal{display:flex;gap:22px;margin-top:20px;font-family:Georgia,'Times New Roman',serif;font-size:12px}
+@media(max-width:640px){main{padding:64px 24px 56px}h1{font-size:32px}body{font-size:19px}}
