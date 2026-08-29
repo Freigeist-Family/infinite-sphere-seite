@@ -1,0 +1,106 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+9:I[68027,["/_next/static/chunks/3fntmmi971322.js"],"default",1]
+4:T6be,:root{
+--fg-black:#0B0B0C;
+--bronze:#8A6A3B;
+--bronze-light:#B8894B;
+--champagne:#E9D7AE;
+--champagne-70:rgba(233,215,174,0.72);
+--champagne-45:rgba(233,215,174,0.45);
+--champagne-20:rgba(233,215,174,0.16);
+--text-on-dark:var(--champagne);
+--text-on-dark-secondary:var(--champagne-70);
+--text-on-dark-muted:var(--champagne-45);
+--border-hairline-dark:var(--champagne-20);
+--accent-on-dark:var(--bronze-light);
+--font-display:'Cormorant Garamond',Georgia,'Times New Roman',serif;
+--font-body:Georgia,'Times New Roman',serif;
+--font-kicker:'Cormorant Garamond',Georgia,serif;
+--tracking-widest:0.18em;
+--text-kicker:0.8125rem;
+--radius-none:0px;
+}
+@font-face{font-family:'Cormorant Garamond';font-style:normal;font-weight:400;font-display:swap;src:url('/assets/fonts/CormorantGaramond-Regular.woff2') format('woff2')}
+@font-face{font-family:'Cormorant Garamond';font-style:normal;font-weight:500;font-display:swap;src:url('/assets/fonts/CormorantGaramond-Regular.woff2') format('woff2')}
+@font-face{font-family:'Cormorant Garamond';font-style:normal;font-weight:600 700;font-display:swap;src:url('/assets/fonts/CormorantGaramond-Bold.woff2') format('woff2')}
+@font-face{font-family:'Cormorant Garamond';font-style:italic;font-weight:400 500;font-display:swap;src:url('/assets/fonts/CormorantGaramond-Italic.woff2') format('woff2')}
+html{background:#0B0B0C;-webkit-text-size-adjust:100%}
+body{margin:0;background:#0B0B0C;-webkit-hyphens:none;hyphens:none}
+a{color:#B8894B;text-decoration:none}
+a:hover{color:#E9D7AE}
+::selection{background:#B8894B;color:#0B0B0C}
+img{max-width:100%}
+.hv1:hover{opacity:0.72 !important}
+.hv2:hover{color:#E9D7AE !important}
+.hv3:hover{color:#B8894B !important}
+.hv4:hover{color:#B8894B !important}7:X
+0:{"P":null,"c":["","datenschutz",""],"q":"","i":false,"f":[[["",{"children":["datenschutz",{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/3fntmmi971322.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"de","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"\n@font-face{font-family:'Cormorant Garamond';font-style:normal;font-weight:400;font-display:swap;src:url('/assets/fonts/CormorantGaramond-Regular.woff2') format('woff2')}\n@font-face{font-family:'Cormorant Garamond';font-style:normal;font-weight:600 700;font-display:swap;src:url('/assets/fonts/CormorantGaramond-Bold.woff2') format('woff2')}\nhtml{background:#0B0B0C}\nbody{margin:0;background:#0B0B0C;color:rgba(233,215,174,0.72);font-family:Georgia,'Times New Roman',serif}\n.nf{min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:24px}\n.nf h1{font-family:'Cormorant Garamond',Georgia,serif;font-weight:400;font-size:clamp(2.4rem,7vw,4rem);line-height:1.05;color:#E9D7AE;margin:0 0 18px}\n.nf p{max-width:34em;font-size:1.0625rem;line-height:1.8;margin:0 0 32px}\n.nf a{color:#B8894B;text-decoration:none}\n.nf a:hover{color:#E9D7AE}\n"}}],["$","div",null,{"className":"nf","children":[["$","h1",null,{"children":"Diese Seite gibt es nicht"}],["$","p",null,{"children":"Der Link führt ins Leere. Falls du über einen gedruckten QR-Code hierher gekommen bist, prüfe die Adresse Zeichen für Zeichen."}],["$","p",null,{"children":["$","a",null,{"href":"/","children":"Zur Startseite"}]}]]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5"],null,"$L6"]}],{},null,false,null]},null,false,"$7"]},null,false,null],"$L8",false]],"m":"$undefined","G":["$9",[]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"EmSTHaYGEfO6yYn2eM-JM"}
+b:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+c:"$Sreact.suspense"
+e:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+10:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+a:T22c5,<div style="background:#0B0B0C;min-height:100vh;font-family:var(--font-body);color:var(--text-on-dark-secondary);text-wrap:pretty;overflow-x:hidden">
+<div style="max-width:1160px;margin:0 auto;padding:0 clamp(24px,7vw,96px)">
+
+<header style="padding:clamp(30px,5vw,46px) 0 clamp(30px,5vw,46px);border-bottom:1px solid var(--border-hairline-dark)">
+<a href="https://freigeist-family.de" aria-label="Freigeist Family" style="display:inline-block;line-height:0;transition:opacity 150ms cubic-bezier(.4,0,.2,1)" class="hv1">
+<picture><source srcset="/assets/freigeist-family-horizontal.webp" type="image/webp"><img src="/assets/freigeist-family-horizontal.png" alt="Freigeist Family" width="1400" height="92" style="display:block;height:clamp(19px,3.1vw,27px);width:auto"></picture>
+</a>
+</header>
+
+<main style="max-width:620px;padding:clamp(56px,10vh,110px) 0 clamp(72px,11vh,130px)">
+<h1 style="margin:0;font-family:var(--font-display);font-weight:400;font-size:clamp(2.2rem,5.5vw,3.1rem);line-height:1.1;letter-spacing:0.008em;color:var(--text-on-dark)">Datenschutzerklärung</h1>
+
+<h2 style="margin:clamp(46px,7vw,68px) 0 0;font-family:var(--font-display);font-weight:600;font-size:1.25rem;line-height:1.4;letter-spacing:0.01em;color:var(--text-on-dark)">1. Datenschutz auf einen Blick</h2>
+<p style="margin:clamp(18px,2.4vw,24px) 0 0;font-size:1.0625rem;line-height:1.86">Diese Datenschutzerklärung informiert dich darüber, was mit deinen personenbezogenen Daten geschieht, wenn du diese Website besuchst. Personenbezogene Daten sind alle Daten, mit denen du persönlich identifiziert werden kannst.</p>
+
+<h2 style="margin:clamp(40px,6vw,58px) 0 0;font-family:var(--font-display);font-weight:600;font-size:1.25rem;line-height:1.4;letter-spacing:0.01em;color:var(--text-on-dark)">2. Verantwortliche Stelle</h2>
+<p style="margin:clamp(18px,2.4vw,24px) 0 0;font-size:1.0625rem;line-height:1.86">Freigeist Family GmbH<br>Thorsten Füllmann<br>Häuptlingsstraße 19<br>26434 Wangerland<br>Telefon: 0162 2501556<br>E-Mail: <a href="mailto:hallo@freigeist-family.de" style="color:#B8894B;transition:color 150ms cubic-bezier(.4,0,.2,1)" class="hv2">hallo@freigeist-family.de</a></p>
+<p style="margin:clamp(18px,2.4vw,24px) 0 0;font-size:1.0625rem;line-height:1.86">Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet.</p>
+
+<h2 style="margin:clamp(40px,6vw,58px) 0 0;font-family:var(--font-display);font-weight:600;font-size:1.25rem;line-height:1.4;letter-spacing:0.01em;color:var(--text-on-dark)">3. Hosting</h2>
+<p style="margin:clamp(18px,2.4vw,24px) 0 0;font-size:1.0625rem;line-height:1.86">Wir hosten die Inhalte unserer Website bei der Hetzner Online GmbH, Industriestr. 25, 91710 Gunzenhausen (nachfolgend „Hetzner“). Wenn du unsere Website besuchst, erfasst Hetzner verschiedene Logfiles inklusive deiner IP-Adressen. Die Verarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Wir haben ein berechtigtes Interesse an einer möglichst zuverlässigen Darstellung unserer Website. Mit Hetzner besteht ein Vertrag zur Auftragsverarbeitung (AVV).</p>
+
+<h2 style="margin:clamp(40px,6vw,58px) 0 0;font-family:var(--font-display);font-weight:600;font-size:1.25rem;line-height:1.4;letter-spacing:0.01em;color:var(--text-on-dark)">4. Server-Logfiles</h2>
+<p style="margin:clamp(18px,2.4vw,24px) 0 0;font-size:1.0625rem;line-height:1.86">Der Provider erhebt und speichert automatisch Informationen in sogenannten Server-Logfiles, die dein Browser automatisch übermittelt. Dies sind: Browsertyp und -version, verwendetes Betriebssystem, Referrer-URL, Hostname des zugreifenden Rechners, Uhrzeit der Serveranfrage und die IP-Adresse. Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO.</p>
+
+<h2 style="margin:clamp(40px,6vw,58px) 0 0;font-family:var(--font-display);font-weight:600;font-size:1.25rem;line-height:1.4;letter-spacing:0.01em;color:var(--text-on-dark)">5. SSL-/TLS-Verschlüsselung</h2>
+<p style="margin:clamp(18px,2.4vw,24px) 0 0;font-size:1.0625rem;line-height:1.86">Diese Seite nutzt aus Sicherheitsgründen eine SSL-/TLS-Verschlüsselung. Eine verschlüsselte Verbindung erkennst du an „https://“ in der Adresszeile deines Browsers.</p>
+
+<h2 style="margin:clamp(40px,6vw,58px) 0 0;font-family:var(--font-display);font-weight:600;font-size:1.25rem;line-height:1.4;letter-spacing:0.01em;color:var(--text-on-dark)">6. Schriftarten</h2>
+<p style="margin:clamp(18px,2.4vw,24px) 0 0;font-size:1.0625rem;line-height:1.86">Diese Website nutzt zur einheitlichen Darstellung von Schriftarten lokal installierte Schriften. Es wird keine Verbindung zu Servern Dritter (etwa Google) aufgebaut; deine IP-Adresse wird dabei nicht an Dritte übertragen.</p>
+
+<h2 style="margin:clamp(40px,6vw,58px) 0 0;font-family:var(--font-display);font-weight:600;font-size:1.25rem;line-height:1.4;letter-spacing:0.01em;color:var(--text-on-dark)">7. Cookies</h2>
+<p style="margin:clamp(18px,2.4vw,24px) 0 0;font-size:1.0625rem;line-height:1.86">Diese Website verwendet ausschließlich technisch notwendige Cookies, die für den Betrieb der Seite erforderlich sind. Es findet keine Analyse deines Nutzungsverhaltens statt. Ein Tracking oder Webanalyse-Dienste kommen nicht zum Einsatz.</p>
+
+<h2 style="margin:clamp(40px,6vw,58px) 0 0;font-family:var(--font-display);font-weight:600;font-size:1.25rem;line-height:1.4;letter-spacing:0.01em;color:var(--text-on-dark)">8. Kontaktaufnahme per E-Mail</h2>
+<p style="margin:clamp(18px,2.4vw,24px) 0 0;font-size:1.0625rem;line-height:1.86">Wenn du uns per E-Mail kontaktierst, werden deine Angaben inklusive der von dir angegebenen Kontaktdaten zwecks Bearbeitung deiner Anfrage bei uns gespeichert. Diese Daten geben wir nicht ohne deine Einwilligung weiter. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO, sofern deine Anfrage mit der Erfüllung eines Vertrags zusammenhängt oder zur Durchführung vorvertraglicher Maßnahmen erforderlich ist. In allen übrigen Fällen beruht die Verarbeitung auf unserem berechtigten Interesse an der Bearbeitung der an uns gerichteten Anfragen (Art. 6 Abs. 1 lit. f DSGVO).</p>
+
+<h2 style="margin:clamp(40px,6vw,58px) 0 0;font-family:var(--font-display);font-weight:600;font-size:1.25rem;line-height:1.4;letter-spacing:0.01em;color:var(--text-on-dark)">9. Social Media</h2>
+<p style="margin:clamp(18px,2.4vw,24px) 0 0;font-size:1.0625rem;line-height:1.86">Wir verlinken auf dieser Website auf unsere Profile bei Instagram, Facebook, YouTube und LinkedIn. Es handelt sich um einfache Verlinkungen, nicht um eingebettete Inhalte (Plugins). Eine Datenübertragung an die jeweiligen Anbieter findet erst statt, wenn du auf einen dieser Links klickst und die jeweilige Plattform aufrufst. Für die dortige Datenverarbeitung gelten die Datenschutzbestimmungen des jeweiligen Anbieters.</p>
+
+<h2 style="margin:clamp(40px,6vw,58px) 0 0;font-family:var(--font-display);font-weight:600;font-size:1.25rem;line-height:1.4;letter-spacing:0.01em;color:var(--text-on-dark)">10. Deine Rechte</h2>
+<p style="margin:clamp(18px,2.4vw,24px) 0 0;font-size:1.0625rem;line-height:1.86">Du hast jederzeit das Recht auf Auskunft über deine gespeicherten personenbezogenen Daten (Art. 15 DSGVO), auf Berichtigung (Art. 16), Löschung (Art. 17), Einschränkung der Verarbeitung (Art. 18), Datenübertragbarkeit (Art. 20) sowie ein Widerspruchsrecht (Art. 21). Eine erteilte Einwilligung kannst du jederzeit mit Wirkung für die Zukunft widerrufen.</p>
+
+<h2 style="margin:clamp(40px,6vw,58px) 0 0;font-family:var(--font-display);font-weight:600;font-size:1.25rem;line-height:1.4;letter-spacing:0.01em;color:var(--text-on-dark)">11. Beschwerderecht bei der Aufsichtsbehörde</h2>
+<p style="margin:clamp(18px,2.4vw,24px) 0 0;font-size:1.0625rem;line-height:1.86">Dir steht ein Beschwerderecht bei einer Datenschutz-Aufsichtsbehörde zu. Die für uns zuständige Behörde ist: Die Landesbeauftragte für den Datenschutz Niedersachsen, Prinzenstraße 5, 30159 Hannover.</p>
+
+<p style="margin:clamp(46px,7vw,68px) 0 0;font-size:0.9375rem;line-height:1.86;color:var(--text-on-dark-secondary)">Stand: August 2026</p>
+</main>
+
+<footer style="border-top:1px solid var(--border-hairline-dark);padding:clamp(26px,3.6vw,38px) 0 clamp(52px,8vw,84px);display:flex;flex-wrap:wrap;gap:clamp(22px,4vw,44px)">
+<a href="/" style="font-family:var(--font-body);font-size:0.9375rem;letter-spacing:0.01em;color:var(--text-on-dark-secondary);transition:color 150ms cubic-bezier(.4,0,.2,1)" class="hv3">Infinite Sphere</a>
+<a href="/impressum/" style="font-family:var(--font-body);font-size:0.9375rem;letter-spacing:0.01em;color:var(--text-on-dark-secondary);transition:color 150ms cubic-bezier(.4,0,.2,1)" class="hv4">Impressum</a>
+</footer>
+
+</div>
+</div>5:["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$a"}}]
+6:["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]
+8:["$","$1","h",{"children":[null,["$","$Le",null,{"children":"$Lf"}],["$","div",null,{"hidden":true,"children":["$","$L10",null,{"children":["$","$c",null,{"name":"Next.Metadata","children":"$L11"}]}]}],null]}]
+7:C
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+12:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+d:null
+11:[["$","title","0",{"children":"Datenschutzerklärung — Infinite Sphere"}],["$","meta","1",{"name":"description","content":"Welche Daten beim Besuch dieser Website verarbeitet werden, auf welcher Rechtsgrundlage und welche Rechte du hast."}],["$","meta","2",{"name":"robots","content":"noindex, follow"}],["$","link","3",{"rel":"canonical","href":"https://infinite-sphere.de/datenschutz/"}],["$","link","4",{"rel":"icon","href":"/assets/favicon-16.png","sizes":"16x16","type":"image/png"}],["$","link","5",{"rel":"icon","href":"/assets/favicon-32.png","sizes":"32x32","type":"image/png"}],["$","link","6",{"rel":"icon","href":"/assets/favicon-192.png","sizes":"192x192","type":"image/png"}],["$","link","7",{"rel":"icon","href":"/assets/favicon-512.png","sizes":"512x512","type":"image/png"}],["$","link","8",{"rel":"apple-touch-icon","href":"/assets/favicon-180.png","sizes":"180x180","type":"image/png"}],["$","$L12","9",{}]]

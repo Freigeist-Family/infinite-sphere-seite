@@ -1,0 +1,46 @@
+1:"$Sreact.fragment"
+3:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+9:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+a:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+c:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+d:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+:HL["/assets/touchpoint.css","style"]
+2:T874,<div class="kicker">Archiv · Touchpoint aus dem Buch</div>
+    <div class="rule"></div>
+    <h1>Disziplin und Freiheit</h1>
+
+    <div class="einordnung">
+      <p>Diese Seite gehört zu meinem Buch. Die Links darin sind gedruckt und lassen sich nicht mehr ändern, also bleiben die Seiten bestehen. Die Inhalte stammen aus der Zeit der Sanierung, geschrieben und aufgenommen, während ich noch mitten drin steckte. Einige Videos habe ich offline genommen. Woran ich heute arbeite, steht auf <a href="https://freigeist-family.de">freigeist-family.de</a>.</p>
+    </div>
+
+    <div class="inhalt">
+      <p>Hier war ein Video mit der These, dass Disziplin dich nicht einschränkt, sondern befreit. Ich würde es heute anders sortieren.</p>
+      <p>Disziplin ist keine Charaktereigenschaft. Wer sie so behandelt, verhandelt jeden Morgen neu mit sich selbst und verliert. Sie ist eine Konstruktion: feste Zeiten, feste Reihenfolge, die wichtigste Sache zuerst, bevor irgendjemand etwas von dir will. Wenn die Konstruktion steht, brauchst du keine Motivation. Das ist der ganze Trick, und er ist unspektakulär.</p>
+      <p>Was Disziplin dir bringt, ist Rechenbarkeit. Du weißt, was in vier Wochen erledigt sein wird, und andere wissen es auch. In einer Sanierung ist das der Unterschied zwischen einer Bank, die mitgeht, und einer, die nicht mitgeht.</p>
+      <p>Der Satz stimmt trotzdem nur zur Hälfte. Disziplin hat mir das Unternehmen gerettet. Sie hat mir nicht automatisch ein Leben zurückgegeben, in dem ich sein wollte. Ich war extrem diszipliniert und gleichzeitig kaum anwesend. Beides ging problemlos zusammen, und genau das ist die Falle: Ein System, das läuft, fühlt sich wie Erfolg an, auch wenn es aufs falsche Ziel läuft.</p>
+      <p>Frag also nicht nur, ob du diszipliniert bist. Frag, worauf.</p>
+      <p class="motto">Come for the business. Stay for your life.</p>
+    </div>
+
+    <footer>
+      <p>Wo ich heute stehe, hörst du im Podcast: <em>Das Gegenteil von vernünftig</em>.</p>
+      <div class="legal">
+        <a href="/impressum/">Impressum</a>
+        <a href="/datenschutz/">Datenschutzerklärung</a>
+      </div>
+    </footer>7:X
+f:X
+f:C
+0:{"buildId":"EmSTHaYGEfO6yYn2eM-JM","data":[{"rsc":["$","$1","c",{"children":[[["$","link",null,{"rel":"stylesheet","href":"/assets/touchpoint.css","precedence":"default"}],["$","main",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Disziplin und Freiheit — Archiv · infinite sphere"}],["$","meta","1",{"name":"robots","content":"noindex, follow"}],["$","link","2",{"rel":"canonical","href":"https://infinite-sphere.de/touchpoint-video-disziplin-freiheit/"}],["$","link","3",{"rel":"icon","href":"/assets/favicon-16.png","sizes":"16x16","type":"image/png"}],["$","link","4",{"rel":"icon","href":"/assets/favicon-32.png","sizes":"32x32","type":"image/png"}],["$","link","5",{"rel":"icon","href":"/assets/favicon-192.png","sizes":"192x192","type":"image/png"}],["$","link","6",{"rel":"icon","href":"/assets/favicon-512.png","sizes":"512x512","type":"image/png"}],["$","link","7",{"rel":"apple-touch-icon","href":"/assets/favicon-180.png","sizes":"180x180","type":"image/png"}],["$","$La","8",{}]]}]}]}],null]}],"isPartial":"$@b","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@e","staleTime":"$7","varyParams":"$f"},{"rsc":"$L10","isPartial":"$@11","staleTime":"$7","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@12","rootVaryParams":null,"needsRuntimeRequest":"$@13"}
+5:null
+10:["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/3fntmmi971322.js","async":true}]],["$","html",null,{"lang":"de","children":["$","body",null,{"children":["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}],"notFound":[[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"\n@font-face{font-family:'Cormorant Garamond';font-style:normal;font-weight:400;font-display:swap;src:url('/assets/fonts/CormorantGaramond-Regular.woff2') format('woff2')}\n@font-face{font-family:'Cormorant Garamond';font-style:normal;font-weight:600 700;font-display:swap;src:url('/assets/fonts/CormorantGaramond-Bold.woff2') format('woff2')}\nhtml{background:#0B0B0C}\nbody{margin:0;background:#0B0B0C;color:rgba(233,215,174,0.72);font-family:Georgia,'Times New Roman',serif}\n.nf{min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:24px}\n.nf h1{font-family:'Cormorant Garamond',Georgia,serif;font-weight:400;font-size:clamp(2.4rem,7vw,4rem);line-height:1.05;color:#E9D7AE;margin:0 0 18px}\n.nf p{max-width:34em;font-size:1.0625rem;line-height:1.8;margin:0 0 32px}\n.nf a{color:#B8894B;text-decoration:none}\n.nf a:hover{color:#E9D7AE}\n"}}],["$","div",null,{"className":"nf","children":[["$","h1",null,{"children":"Diese Seite gibt es nicht"}],["$","p",null,{"children":"Der Link führt ins Leere. Falls du über einen gedruckten QR-Code hierher gekommen bist, prüfe die Adresse Zeichen für Zeichen."}],["$","p",null,{"children":["$","a",null,{"href":"/","children":"Zur Startseite"}]}]]}]],[]]}]}]}]]}]
+7:300
+13:true
+7:C
+12:0
+b:"$undefined"
+e:"$undefined"
+11:"$undefined"
+6:"$undefined"

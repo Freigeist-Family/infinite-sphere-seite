@@ -1,0 +1,48 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+3:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+5:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+b:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+d:I[68027,["/_next/static/chunks/3fntmmi971322.js"],"default",1]
+8:X
+0:{"P":null,"c":["","touchpoint-massnahmen-tracker",""],"q":"","i":false,"f":[[["",{"children":[["slug","touchpoint-massnahmen-tracker","d",["datenschutz","impressum"]],{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/3fntmmi971322.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"de","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"\n@font-face{font-family:'Cormorant Garamond';font-style:normal;font-weight:400;font-display:swap;src:url('/assets/fonts/CormorantGaramond-Regular.woff2') format('woff2')}\n@font-face{font-family:'Cormorant Garamond';font-style:normal;font-weight:600 700;font-display:swap;src:url('/assets/fonts/CormorantGaramond-Bold.woff2') format('woff2')}\nhtml{background:#0B0B0C}\nbody{margin:0;background:#0B0B0C;color:rgba(233,215,174,0.72);font-family:Georgia,'Times New Roman',serif}\n.nf{min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:24px}\n.nf h1{font-family:'Cormorant Garamond',Georgia,serif;font-weight:400;font-size:clamp(2.4rem,7vw,4rem);line-height:1.05;color:#E9D7AE;margin:0 0 18px}\n.nf p{max-width:34em;font-size:1.0625rem;line-height:1.8;margin:0 0 32px}\n.nf a{color:#B8894B;text-decoration:none}\n.nf a:hover{color:#E9D7AE}\n"}}],["$","div",null,{"className":"nf","children":[["$","h1",null,{"children":"Diese Seite gibt es nicht"}],["$","p",null,{"children":"Der Link führt ins Leere. Falls du über einen gedruckten QR-Code hierher gekommen bist, prüfe die Adresse Zeichen für Zeichen."}],["$","p",null,{"children":["$","a",null,{"href":"/","children":"Zur Startseite"}]}]]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$8"]},null,false,null],["$","$1","h",{"children":[null,["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"EmSTHaYGEfO6yYn2eM-JM"}
+:HL["/assets/touchpoint.css","style"]
+8:C
+e:T689,<div class="kicker">Archiv · Touchpoint aus dem Buch</div>
+    <div class="rule"></div>
+    <h1>Maßnahmen-Tracker</h1>
+
+    <div class="einordnung">
+      <p>Diese Seite gehört zu meinem Buch. Die Links darin sind gedruckt und lassen sich nicht mehr ändern, also bleiben die Seiten bestehen. Die Inhalte stammen aus der Zeit der Sanierung, geschrieben und aufgenommen, während ich noch mitten drin steckte. Einige Videos habe ich offline genommen. Woran ich heute arbeite, steht auf <a href="https://freigeist-family.de">freigeist-family.de</a>.</p>
+    </div>
+
+    <div class="inhalt">
+      <p>Der Unterschied zwischen einer Maßnahme und einer Absicht ist ein Name und ein Datum.</p>
+      <p>Der Tracker hält beides fest: was, bis wann, durch wen, wie weit. Mehr nicht. Er ist absichtlich zu klein, um darin zu verschwinden. Wenn deine Liste länger wird als eine Bildschirmseite, hast du kein Tracking-Problem, sondern zu viele Baustellen gleichzeitig.</p>
+      <p>Einmal pro Woche durchgehen. Nicht öfter.</p>
+    </div>
+
+    <section class="download">
+      <div class="download-label">Download</div>
+      <div class="download-row">
+        <div>
+          <div class="download-name">Massnahmen-Tracker.xlsx</div>
+          <div class="download-meta">Excel-Tabelle</div>
+        </div>
+        <a href="/downloads/Massnahmen-Tracker.xlsx" download>Herunterladen</a>
+      </div>
+    </section>
+
+    <footer>
+      <p>Wo ich heute stehe, hörst du im Podcast: <em>Das Gegenteil von vernünftig</em>.</p>
+      <div class="legal">
+        <a href="/impressum/">Impressum</a>
+        <a href="/datenschutz/">Datenschutzerklärung</a>
+      </div>
+    </footer>4:[["$","link",null,{"rel":"stylesheet","href":"/assets/touchpoint.css","precedence":"default"}],["$","main",null,{"dangerouslySetInnerHTML":{"__html":"$e"}}]]
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+7:null
+c:[["$","title","0",{"children":"Maßnahmen-Tracker — Archiv · infinite sphere"}],["$","meta","1",{"name":"robots","content":"noindex, follow"}],["$","link","2",{"rel":"canonical","href":"https://infinite-sphere.de/touchpoint-massnahmen-tracker/"}],["$","link","3",{"rel":"icon","href":"/assets/favicon-16.png","sizes":"16x16","type":"image/png"}],["$","link","4",{"rel":"icon","href":"/assets/favicon-32.png","sizes":"32x32","type":"image/png"}],["$","link","5",{"rel":"icon","href":"/assets/favicon-192.png","sizes":"192x192","type":"image/png"}],["$","link","6",{"rel":"icon","href":"/assets/favicon-512.png","sizes":"512x512","type":"image/png"}],["$","link","7",{"rel":"apple-touch-icon","href":"/assets/favicon-180.png","sizes":"180x180","type":"image/png"}],["$","$Lf","8",{}]]
